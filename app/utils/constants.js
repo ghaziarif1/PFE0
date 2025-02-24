@@ -1,0 +1,1 @@
+export const URGENCY_LEVELS = ['Low', 'Medium', 'High'];
